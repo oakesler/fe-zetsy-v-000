@@ -49,6 +49,9 @@ p {
   font-size: 2em;
 }
 
+h3 ~ p {
+  color: red;
+}
 
 
 
