@@ -50,7 +50,8 @@ p {
 }
 
 h2 ~ img {
-  
+  border: 5px #ccc solid;
+  padding: 1px;
 }
 
 
