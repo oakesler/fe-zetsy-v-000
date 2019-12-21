@@ -49,8 +49,8 @@ p {
   font-size: 2em;
 }
 
-h2 ~ p {
-  color: red;
+h2 ~ img {
+  
 }
 
 
