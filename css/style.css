@@ -23,6 +23,7 @@ body {
 footer {
   text-align: right;
   font-family: 'Times New Roman', serif;
+  font-size: 0.8em;
 }
 
 p {
@@ -48,6 +49,10 @@ p {
   font-size: 2em;
 }
 
+a img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
 
 
 
