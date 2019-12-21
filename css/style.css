@@ -47,6 +47,8 @@ p {
 .mini_headers {
   color: rgb(111,127,122);
   font-size: 2em;
+  border: 5px #ccc solid;
+  padding: 1px;
 }
 
 
