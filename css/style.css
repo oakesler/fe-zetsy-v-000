@@ -49,7 +49,7 @@ p {
   font-size: 2em;
 }
 
-h3 ~ p {
+h2 ~ p {
   color: red;
 }
 
